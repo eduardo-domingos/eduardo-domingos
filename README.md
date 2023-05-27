@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/eduardo-domingos"></a>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-domingos&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only">
+  <img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&theme=dark#gh-dark-mode-only">
 </div>
 
 <div style="display: inline_block"><br>
