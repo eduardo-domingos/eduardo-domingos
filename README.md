@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/eduardo-domingos"></a>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-domingos&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-domingos&show_icons=true&langs_count=16&theme=dark#gh-dark-mode-only">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&theme=dark#gh-dark-mode-only">
 </div>
 
