@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/eduardo-domingos"></a>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-domingos&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only">
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,6 +11,7 @@
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+  <img align="center" alt="Edu-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-plain.svg">
   <img align="center" alt="Edu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 <img align="center" alt="Edu-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 <img align="center" alt="Edu-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
