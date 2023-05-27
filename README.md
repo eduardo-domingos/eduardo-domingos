@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/eduardo-domingos"></a>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=eduardo-domingos&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-domingos&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-domingos&layout=compact&theme=dark#gh-dark-mode-only">
 </div>
 
 <div style="display: inline_block"><br>
